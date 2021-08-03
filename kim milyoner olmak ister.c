@@ -3,9 +3,7 @@
 main(){
 	char cevap; 
 	
-//jokerler
-//telefon
-//yarý yarýya cevap
+
 	int secim;
 	printf("Kim Milyoner Olmak Ister Programina Hosgeldiniz\n");
 	
@@ -190,7 +188,7 @@ printf("6.soru: ");
 		 printf("###############################################################################################\n");
 
 printf("7.soru: ");
-	printf("Futbol hangi uygarlik tarafindan ortaya çýkarildi?\n");
+	printf("Futbol hangi uygarlik tarafindan ortaya Ã§Ä±karildi?\n");
 	printf("a)Pers\n");
 		printf("b)Brazilya\n");
 	printf("c)Cin\n");
@@ -217,7 +215,7 @@ printf("7.soru: ");
 			 printf("###############################################################################################\n");
 
 printf("8.soru: ");
-	printf("1950'li yillarin sonlarinda tahillari yedikleri gerekcesiyle ulkesindeki tüm sercelerin oldurulmesini emreden unlu dikdator kimdir?\n");
+	printf("1950'li yillarin sonlarinda tahillari yedikleri gerekcesiyle ulkesindeki tÃ¼m sercelerin oldurulmesini emreden unlu dikdator kimdir?\n");
 	printf("a)Josef Stalin\n");
 		printf("b)Adolf Hitler\n");
 	printf("c)Syder Yedf\n");
@@ -269,7 +267,7 @@ printf("9.soru: ");
 					 printf("###############################################################################################\n");
 
 printf("10.soru: ");
-	printf("Sirbistan, Karadag, Hirvatistan, Bosna Hersek ülkelerinin dagilmadan once kurduklari devletin adi nedir?\n");
+	printf("Sirbistan, Karadag, Hirvatistan, Bosna Hersek Ã¼lkelerinin dagilmadan once kurduklari devletin adi nedir?\n");
 	printf("a)Yugoslavya\n");
 		printf("b)Macaristan Imparatorlugu\n");
 	printf("c)Sovyetler Birligi\n");
@@ -297,9 +295,9 @@ printf("10.soru: ");
 					 printf("###############################################################################################\n");
 
 printf("11.soru: ");
-	printf("Türkçe dili hangi dil grubuna aittir?\n");
-	printf("a)Çin-Tibet\n");
-		printf("b) Ural – Altay\n");
+	printf("TÃ¼rkÃ§e dili hangi dil grubuna aittir?\n");
+	printf("a)Ã‡in-Tibet\n");
+		printf("b) Ural â€“ Altay\n");
 	printf("c) Hami-Sami \n");
 	printf("d)Arabistan-Zedfe\n");
 		printf("Sizin Cevabiniz : ");
@@ -324,7 +322,7 @@ printf("11.soru: ");
 						 printf("###############################################################################################\n");
 
 printf("11.soru: ");
-	printf(" Yazdýklarýnýn edebi gucunu azaltacagýný one surerek Nobel odulunu reddeden Bulanti ve Duvar kitaplarinin yazari kimdir??\n");
+	printf(" YazdÄ±klarÄ±nÄ±n edebi gucunu azaltacagÄ±nÄ± one surerek Nobel odulunu reddeden Bulanti ve Duvar kitaplarinin yazari kimdir??\n");
 	printf("a)Jean Paul Sartre\n");
 		printf("b) Albert Camus\n");
 	printf("c)Friedrich Nietzsche \n");
@@ -341,7 +339,7 @@ printf("11.soru: ");
 	
 	
 	else  {
-	printf("\tGerizekalisiniz, 1m para kactý mal Uzgunum Yanlis Bildiniz\n");
+	printf("\tGerizekalisiniz, 1m para kactÄ± mal Uzgunum Yanlis Bildiniz\n");
 	printf("\tDogru Cevap :  ");
 	printf("\t a)Jean Paul Sartre");
 	 exit(0); 
